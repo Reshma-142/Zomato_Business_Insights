@@ -98,9 +98,14 @@ Each visualization was created with proper titles, labels, and business interpre
 This project demonstrates practical Data Analytics skills including:
 
 ✔ Data Cleaning
+
 ✔ Data Wrangling
+
 ✔ Exploratory Data Analysis
+
 ✔ Data Visualization
+
 ✔ Business Insight Generation
+
 ✔ Data-Driven Decision Making
 
